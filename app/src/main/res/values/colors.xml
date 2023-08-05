@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="decent_black">#333333</color>
+    <color name="decent_blue">#3290BC</color>
+    <color name="decent_green">#7ED859</color>
+    <color name="decent_red">#AE2626</color>
+    <color name="decent_yellow">#F9D423</color>
+    <color name="barrier_Color">#330707</color>
+</resources>
